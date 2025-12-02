@@ -15,9 +15,15 @@ A complete NestJS Starter Project including:
 ✔ Modular Architecture (AuthModule + UsersModule)
 
 Framework ==> 	NestJS
+
 Database  ==>	  PostgreSQL
+
 ORM       ==> 	TypeORM
+
 Validation ==> 	class-validator, class-transformer
+
 Authentication ==> 	JWT + Passport
+
 Password Hashing ==>	bcryptjs
+
 
