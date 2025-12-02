@@ -30,7 +30,9 @@ Password Hashing ==>	bcryptjs
 👤 Author
 
 Jatin Kaushik
+
 NestJS + Node.js + Angular Developer
+
 
 
 
